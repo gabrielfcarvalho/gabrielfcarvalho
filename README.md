@@ -23,9 +23,9 @@
 
 <!-- About -->
 ### About me
-I build end-to-end CV + GenAI systems (OCR, **YOLO**, **BLIP**, **RAG**) from data → model → API → UI, with **Python/PyTorch**, **Django**, **Docker**, **SQL**.
+CV + GenAI systems (OCR, **YOLO**, **BLIP**, **RAG**, **Python/PyTorch**, **Django**, **Docker**, **SQL**).
 
-- 🔭 Current:  AI Developer @ CIIA (public safety) · Tech Lead @ InovaFapto
+- 🔭 Current:  AI Developer @CIIA (public safety) · Tech Lead @InovaFapto
 - 🚀 Focus: computer vision, LLM/RAG, robust evaluation
 
 ---
